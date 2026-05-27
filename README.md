@@ -1,4 +1,4 @@
-# ArrowTrack 🏹
+# ArrowTrack 
 
 Archery training app with AI analysis, anomaly detection and fintech integration.
 
@@ -17,4 +17,4 @@ Archery training app with AI analysis, anomaly detection and fintech integration
 - [ ] Module 6 — Tournament payments
 
 ## Status
-🚧 In development — started May 2026
+In development — started May 2026
